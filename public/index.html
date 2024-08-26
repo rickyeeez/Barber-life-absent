@@ -147,22 +147,6 @@
     row.insertCell(7).textContent = currentTime; // Waktu masuk
     data.waktu_hadir = currentTime; // Simpan waktu ke dalam objek data
 
-    // Kirim data ke server untuk ditulis ke file JSON
-    fetch('/updateData', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify(data),
-    })
-    .then(response => response.json())
-    .then(data => {
-      console.log('Success:', data);
-    })
-    .catch((error) => {
-      console.error('Error:', error);
-    });
-
     // Urutkan tabel berdasarkan ID setelah data baru ditambahkan
     sortTableById();
   }
