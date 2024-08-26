@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Admin - Data Management</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/milligram@1.3.0/dist/milligram.min.css"
+    />
+    <style>
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 20px 0;
+        font-size: 12px; /* Ukuran font tabel lebih kecil */
+      }
+      th,
+      td {
+        padding: 8px 12px;
+        border: 1px solid #ddd;
+        text-align: left;
+      }
+      th {
+        background-color: #007bff;
+        color: white;
+        font-weight: bold;
+      }
+      tr:nth-child(even) {
+        background-color: #f4f4f4;
+      }
+      tr:hover {
+        background-color: #e2e2e2;
+      }
+      .button {
+        display: inline-block;
+        padding: 10px 15px;
+        margin: 5px;
+        border: none;
+        border-radius: 5px;
+        background-color: #007bff;
+        color: white;
+        text-decoration: none;
+        text-align: center;
+        font-size: 14px;
+      }
+      .button:hover {
+        background-color: #0056b3;
+      }
+      .container {
+        padding: 20px;
+      }
+      .total-count {
+        font-size: 16px;
+        font-weight: bold;
+        margin-top: 20px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <main class="wrapper" style="padding: 2em">
+      <section class="container">
+        <h1>Data Management</h1>
+        <a class="button" id="downloadButton">Download Data</a>
+        <table id="dataTable">
+          <thead>
+            <tr>
+              <th>ID</th>
+              <th>Nama</th>
+              <th>Email</th>
+              <th>Asal Kota</th>
+              <th>Pilihan</th>
+              <th>Nama Sertif</th>
+              <th>No HP</th>
+              <th>Status</th>
+              <th>Waktu Masuk</th>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- Data akan ditambahkan di sini -->
+          </tbody>
+        </table>
+        <div class="total-count" id="totalCount">Total Data: 0</div>
+      </section>
+    </main>
+
+    <script>
+      async function fetchData() {
+        try {
+          const response = await fetch("/data.json"); // Ganti dengan path ke file JSON kamu
+          const jsonData = await response.json();
+
+          // Filter data yang memiliki waktu_masuk
+          const filteredData = jsonData.filter((item) => item.waktu_hadir);
+
+          const tableBody = document.querySelector("#dataTable tbody");
+          tableBody.innerHTML = ""; // Clear existing rows
+
+          filteredData.forEach((item) => {
+            const row = tableBody.insertRow();
+            row.insertCell(0).textContent = item.uniq;
+            row.insertCell(1).textContent = item.nama;
+            row.insertCell(2).textContent = item.email;
+            row.insertCell(3).textContent = item.asal_kota;
+            row.insertCell(4).textContent = item.pilihan;
+            row.insertCell(5).textContent = item.nama_sertif;
+            row.insertCell(6).textContent = item.no.startsWith("0")
+              ? item.no
+              : "0" + item.no;
+            row.insertCell(7).textContent = item.status || "-";
+            row.insertCell(8).textContent = item.waktu_hadir;
+          });
+
+          // Update total count
+          document.getElementById(
+            "totalCount"
+          ).textContent = `Total Data: ${filteredData.length} / ${jsonData.length}`;
+        } catch (error) {
+          console.error("Error fetching data:", error);
+        }
+      }
+
+      function downloadCSV() {
+        const table = document.getElementById("dataTable");
+        let csv = [];
+        for (let row of table.rows) {
+          let cols = Array.from(row.cells).map((cell) => cell.innerText);
+          csv.push(cols.join(","));
+        }
+        let csvContent = "data:text/csv;charset=utf-8," + csv.join("\n");
+        let encodedUri = encodeURI(csvContent);
+        let link = document.createElement("a");
+        link.setAttribute("href", encodedUri);
+        link.setAttribute("download", "data.csv");
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+      }
+
+      window.addEventListener("load", function () {
+        fetchData();
+
+        document
+          .getElementById("downloadButton")
+          .addEventListener("click", () => {
+            downloadCSV();
+          });
+      });
+    </script>
+  </body>
+</html>

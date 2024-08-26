@@ -61,12 +61,13 @@
         <table id="dataTable">
           <thead>
             <tr>
+              <th>ID</th>
               <th>Nama</th>
-              <th>Email</th>
               <th>Asal Kota</th>
               <th>Pilihan</th>
               <th>Nama Sertif</th>
-              <th>No</th>
+              <th>No HP</th>
+              <th>Status</th>
               <th>Waktu Masuk</th>
             </tr>
           </thead>
@@ -102,7 +103,7 @@
                 <h4><strong>Asal Kota:</strong> ${data.asal_kota}</h4>
                 <h4><strong>Pilihan:</strong> ${data.pilihan}</h4>
                 <h4><strong>Nama Sertif:</strong> ${data.nama_sertif}</h4>
-                <h4><strong>No:</strong> 0${data.no.$numberLong}</h4>
+                <h4><strong>No:</strong> ${data.no.startsWith('0') ? data.no : '0' + data.no}</h4>
               `,
               icon: 'info',
               width: '600px',
@@ -127,57 +128,96 @@
       }
 
       function addDataToTable(data) {
-        const tableBody = document.querySelector('#dataTable tbody');
-        const existingRows = Array.from(tableBody.rows);
+  const tableBody = document.querySelector('#dataTable tbody');
+  const existingRows = Array.from(tableBody.rows);
 
-        // Cek apakah data sudah ada di tabel
-        const isDuplicate = existingRows.some(row => row.cells[0].textContent === data.nama);
+  // Cek apakah data sudah ada di tabel berdasarkan ID (uniq)
+  const isDuplicate = existingRows.some(row => row.cells[0].textContent === data.uniq);
 
-        if (!isDuplicate) {
-          const row = tableBody.insertRow();
-          row.insertCell(0).textContent = data.nama;
-          row.insertCell(1).textContent = data.email;
-          row.insertCell(2).textContent = data.asal_kota;
-          row.insertCell(3).textContent = data.pilihan;
-          row.insertCell(4).textContent = data.nama_sertif;
-          row.insertCell(5).textContent = data.no.$numberLong;
-          row.insertCell(6).textContent = new Date().toLocaleString(); // Waktu masuk
+  if (!isDuplicate) {
+    const row = tableBody.insertRow();
+    row.insertCell(0).textContent = data.uniq;
+    row.insertCell(1).textContent = data.nama;
+    row.insertCell(2).textContent = data.asal_kota;
+    row.insertCell(3).textContent = data.pilihan;
+    row.insertCell(4).textContent = data.nama_sertif;
+    row.insertCell(5).textContent = data.no.startsWith('0') ? data.no : '0' + data.no;
+    const currentTime = new Date().toLocaleString();
+    row.insertCell(6).textContent = data.status === "" ? "-" : data.status;
+    row.insertCell(7).textContent = currentTime; // Waktu masuk
+    data.waktu_hadir = currentTime; // Simpan waktu ke dalam objek data
+
+    // Kirim data ke server untuk ditulis ke file JSON
+    fetch('/updateData', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(data),
+    })
+    .then(response => response.json())
+    .then(data => {
+      console.log('Success:', data);
+    })
+    .catch((error) => {
+      console.error('Error:', error);
+    });
+
+    // Urutkan tabel berdasarkan ID setelah data baru ditambahkan
+    sortTableById();
+  }
+}
+
+function sortTableById() {
+  const table = document.getElementById('dataTable');
+  const rows = Array.from(table.rows).slice(1); // Ambil semua baris kecuali header
+
+  rows.sort((a, b) => {
+    const idA = a.cells[0].textContent.trim();
+    const idB = b.cells[0].textContent.trim();
+    return idA.localeCompare(idB, undefined, { numeric: true });
+  });
+
+  rows.forEach(row => table.tBodies[0].appendChild(row)); // Reattach the sorted rows
+}
+
+function decodeContinuously(codeReader, selectedDeviceId) {
+  codeReader.decodeFromInputVideoDeviceContinuously(
+    selectedDeviceId,
+    "video",
+    (result, err) => {
+      if (result && !isScanning) {
+        isScanning = true; // Mencegah scan berulang
+        console.log("Found QR code!", result);
+        document.getElementById("result").textContent = result.text;
+        postDataToApi(result.text); // Kirim data ke API
+
+        // Tambahkan delay sebelum memungkinkan scan berikutnya
+        setTimeout(() => {
+          isScanning = false;
+        }, 2000); // Delay 2 detik
+      }
+
+      if (err) {
+        if (err instanceof ZXing.NotFoundException) {
+          console.log("No QR code found.");
+        }
+
+        if (err instanceof ZXing.ChecksumException) {
+          console.log(
+            "A code was found, but its read value was not valid."
+          );
+        }
+
+        if (err instanceof ZXing.FormatException) {
+          console.log(
+            "A code was found, but it was in an invalid format."
+          );
         }
       }
-
-      function decodeContinuously(codeReader, selectedDeviceId) {
-        codeReader.decodeFromInputVideoDeviceContinuously(
-          selectedDeviceId,
-          "video",
-          (result, err) => {
-            if (result && !isScanning) {
-              isScanning = true; // Mencegah scan berulang
-              console.log("Found QR code!", result);
-              document.getElementById("result").textContent = result.text;
-              postDataToApi(result.text); // Kirim data ke API
-            }
-
-            if (err) {
-              if (err instanceof ZXing.NotFoundException) {
-                console.log("No QR code found.");
-              }
-
-              if (err instanceof ZXing.ChecksumException) {
-                console.log(
-                  "A code was found, but its read value was not valid."
-                );
-              }
-
-              if (err instanceof ZXing.FormatException) {
-                console.log(
-                  "A code was found, but it was in an invalid format."
-                );
-              }
-            }
-          }
-        );
-      }
-
+    }
+  );
+}
       window.addEventListener("load", function () {
         let selectedDeviceId;
         const codeReader = new ZXing.BrowserQRCodeReader();
