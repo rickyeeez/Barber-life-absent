@@ -5,6 +5,8 @@ const express = require("express");
 const mongoose = require("mongoose");
 const mongoString = process.env.DATABASE_URL;
 const routes = require("./routes/routes");
+mongoose.connect(mongoString);
+const database = mongoose.connection;
 const fs = require("fs");
 database.on("error", (error) => {
   console.log(error);
