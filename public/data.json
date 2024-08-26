@@ -1,0 +1,2576 @@
+[{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e670"
+  },
+  "uniq": "JBLF-000001",
+  "email": "tri.ivan.36@gmail.com",
+  "nama": "Moh. Tri Ivan Subekti ",
+  "asal_kota": "Asal: Gempol - Pasuruan / Barber: Elok barbershop ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Moh. Tri Ivan Subekti ",
+  "no": {
+    "$numberLong": "85895666994"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e671"
+  },
+  "uniq": "JBLF-000002",
+  "email": "muhammadamanullah027@gmail.com",
+  "nama": "Amanullah",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Muhammad Amanullah",
+  "no": {
+    "$numberLong": "85704244483"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e672"
+  },
+  "uniq": "JBLF-000003",
+  "email": "rahmanazka1@gmail.com",
+  "nama": "Rahman Azka",
+  "asal_kota": "Jepara jateng",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Rahman Azka",
+  "no": {
+    "$numberLong": "8816791879"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e673"
+  },
+  "uniq": "JBLF-000004",
+  "email": "nerzizel@gmail.com",
+  "nama": "Rifaldo adyaksa kurniawan",
+  "asal_kota": "Kediri",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Rifaldo A.K",
+  "no": {
+    "$numberLong": "85855480181"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e674"
+  },
+  "uniq": "JBLF-000005",
+  "email": "jombangzakaria@gmail.com",
+  "nama": "Moch. ilham zakaria ",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "MOCH. ILHAM ZAKARIA ",
+  "no": {
+    "$numberLong": "81331125598"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e675"
+  },
+  "uniq": "JBLF-000006",
+  "email": "chezunk.swand@gmail.com",
+  "nama": "Nur Hasan",
+  "asal_kota": "Purwosari/Elok Barbershop",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Tn.N Hasan.Drg.H",
+  "no": {
+    "$numberLong": "85748185746"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e676"
+  },
+  "uniq": "JBLF-000007",
+  "email": "sukoharyono112233@gmail.com",
+  "nama": "Suko haryono",
+  "asal_kota": "Kec Ngoro, kab jombang",
+  "pilihan": "Workhshop and Battle",
+  "nama_sertif": "Manshurin barbershop",
+  "no": {
+    "$numberLong": "85232069863"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e677"
+  },
+  "uniq": "JBLF-000008",
+  "email": "fasyakemal768@gmail.com",
+  "nama": "Mukhamad Kemal Fasya",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Potong Rambut D. I. Y",
+  "no": {
+    "$numberLong": "85855194084"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e678"
+  },
+  "uniq": "JBLF-000009",
+  "email": "mohammadfadhil214@gmail.com",
+  "nama": "Fadhil",
+  "asal_kota": "Jombang ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Mohammad Fadhil ",
+  "no": {
+    "$numberLong": "81237797738"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e679"
+  },
+  "uniq": "JBLF-000010",
+  "email": "bluu1006@gmail.com",
+  "nama": "Muhammad Aminullah",
+  "asal_kota": "Madiun / ALTAIR Hair Cut's",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Muhammad Aminullah",
+  "no": {
+    "$numberLong": "8991779800"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e67a"
+  },
+  "uniq": "JBLF-000011",
+  "email": "husnikusniawan@gmail.com",
+  "nama": "HUSNI",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Hm barbershop",
+  "no": {
+    "$numberLong": "82143346671"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e67b"
+  },
+  "uniq": "JBLF-000012",
+  "email": "koteparif0@gmail.com",
+  "nama": "Arif kotep",
+  "asal_kota": "Effort Cut",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Arif Kotep",
+  "no": {
+    "$numberLong": "81553992883"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e67c"
+  },
+  "uniq": "JBLF-000013",
+  "email": "banggapamungkas23@gmail.com",
+  "nama": "Bangga",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "RINIO BARBERSHOP",
+  "no": {
+    "$numberLong": "83832194236"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e67d"
+  },
+  "uniq": "JBLF-000014",
+  "email": "alilutfi1987@gmail.com",
+  "nama": "Ali litfi",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Ali lutfi",
+  "no": {
+    "$numberLong": "85655706667"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e67e"
+  },
+  "uniq": "JBLF-000015",
+  "email": "khufadmuhan@gmail.com",
+  "nama": "Khufad muhan",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Khufad muhan",
+  "no": {
+    "$numberLong": "82134773495"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e67f"
+  },
+  "uniq": "JBLF-000016",
+  "email": "cakhuud01@gmail.com",
+  "nama": "Khoirul Nur Huda",
+  "asal_kota": "Karanganyar ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "HOEDHA",
+  "no": {
+    "$numberLong": "81336488735"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e680"
+  },
+  "uniq": "JBLF-000017",
+  "email": "cyunklien@gmail.com",
+  "nama": "Mas bertto",
+  "asal_kota": "Jombang ngoro",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Mas bertto²²",
+  "no": {
+    "$numberLong": "81933861922"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e681"
+  },
+  "uniq": "JBLF-000018",
+  "email": "caparra555@gmail.com",
+  "nama": "Rizal Taufikur Rohman",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Rizal Taufikur Rohman",
+  "no": {
+    "$numberLong": "81515586964"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e682"
+  },
+  "uniq": "JBLF-000019",
+  "email": "wantoh282@gmail.com",
+  "nama": "Hermawanto",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Hermawanto",
+  "no": {
+    "$numberLong": "85731069525"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e683"
+  },
+  "uniq": "JBLF-000020",
+  "email": "dickynizamul98@gmail.com",
+  "nama": "Dicky nizamul khikam",
+  "asal_kota": "Jombang/darah biru",
+  "pilihan": "Workhshop and Battle",
+  "nama_sertif": "Dicky nizamul khikam",
+  "no": "‪+62 857‑5598‑5573‬"
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e684"
+  },
+  "uniq": "JBLF-000021",
+  "email": "muhammadandikamaulanaz26@gmail.com",
+  "nama": "MUHAMMAD ANDHIKA MAUALANA",
+  "asal_kota": "JOMBANG",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "MUHAMMAD ANDHIKA MAUALANA",
+  "no": {
+    "$numberLong": "85755701811"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e685"
+  },
+  "uniq": "JBLF-000022",
+  "email": "badi97635@gmail.com",
+  "nama": "Bima Adi Surya ",
+  "asal_kota": "Blimbing Gudo Jombang ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Bima",
+  "no": {
+    "$numberLong": "82230371549"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e686"
+  },
+  "uniq": "JBLF-000023",
+  "email": "nasichul96@gmail.com",
+  "nama": "M. NASIKHUL ULUM",
+  "asal_kota": "KOTA PASURUAN/ POTONG RAMBUT MAS NASIKH ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "M. NASIKHUL ULUM ",
+  "no": {
+    "$numberLong": "82228085519"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e687"
+  },
+  "uniq": "JBLF-000024",
+  "email": "fediiriyanto01@gmail.com",
+  "nama": "Fedy iriyanto",
+  "asal_kota": "JEPARA JATENG  (GHALIPHAT BARBERSHOP) ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "FEDY IRIYANTO",
+  "no": {
+    "$numberLong": "81575830177"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e688"
+  },
+  "uniq": "JBLF-000025",
+  "email": "dhimasdhim54@gmail.com",
+  "nama": "DHIMAS KHARISMA WIJAYA ",
+  "asal_kota": "JOMBANG ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "DHIMAS KHARISMA WIJAYA ",
+  "no": {
+    "$numberLong": "85748079416"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e689"
+  },
+  "uniq": "JBLF-000026",
+  "email": "mulyonotedi9@gmail.com",
+  "nama": "Tedi Hari Mulyono",
+  "asal_kota": "Pasuruan",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Tedi Hari Mulyono",
+  "no": {
+    "$numberLong": "81554967288"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e68a"
+  },
+  "uniq": "JBLF-000027",
+  "email": "yusufsantoso1989@gmail.com",
+  "nama": "M. YUSUF SANTOSO",
+  "asal_kota": "JOMBANG",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "M. YUSUF SANTOSO",
+  "no": {
+    "$numberLong": "85335831135"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e68b"
+  },
+  "uniq": "JBLF-000028",
+  "email": "ajikyanuar6@gmail.com",
+  "nama": "ajik yanuar",
+  "asal_kota": "Fireup hairstudio",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "ajik yanuar",
+  "no": {
+    "$numberLong": "85954654919"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e68c"
+  },
+  "uniq": "JBLF-000029",
+  "email": "fidris907@gmail.com",
+  "nama": "Mohammad fahmi idris",
+  "asal_kota": "Pasuruan",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Mohammad Fahmi Idris",
+  "no": {
+    "$numberLong": "82243110601"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e68d"
+  },
+  "uniq": "JBLF-000030",
+  "email": "ucengketangi@gmail.com",
+  "nama": "Ketang",
+  "asal_kota": "Mojokerto",
+  "pilihan": "Workhshop and Battle",
+  "nama_sertif": "Ketang rekso penggalih",
+  "no": {
+    "$numberLong": "85607658867"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e68e"
+  },
+  "uniq": "JBLF-000031",
+  "email": "davidabiel87@gmail.com",
+  "nama": "David Abiel Muslim",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "DAVID ABIEL MUSLIM",
+  "no": "087815080099‬"
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e68f"
+  },
+  "uniq": "JBLF-000032",
+  "email": "odywicaksana09@gmail.com",
+  "nama": "Ody you hand wicaksana",
+  "asal_kota": "Kediri",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Arjuna Barbershop",
+  "no": {
+    "$numberLong": "82229471071"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e690"
+  },
+  "uniq": "JBLF-000033",
+  "email": "shntafs@gmail.com",
+  "nama": "Shinta Febriana Sari",
+  "asal_kota": "Kediri / Shinta Barbershop",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Shinta Febriana Sari",
+  "no": {
+    "$numberLong": "87771254041"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e691"
+  },
+  "uniq": "JBLF-000034",
+  "email": "duktakdukduk123@gmail.com",
+  "nama": "M. FICKRY HEYKAL",
+  "asal_kota": "PASURUAN JAWA TIMUR / HELLET",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "M. FICKRY HEYKAL",
+  "no": {
+    "$numberLong": "85749093087"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e692"
+  },
+  "uniq": "JBLF-000035",
+  "email": "luckyherviankasih@gmail.com",
+  "nama": "Lucky Hervian Kasih",
+  "asal_kota": "OMAR BARBERSHOP",
+  "pilihan": "Workhshop and Battle",
+  "nama_sertif": "Lucky Hervian Kasih",
+  "no": {
+    "$numberLong": "85157977113"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e693"
+  },
+  "uniq": "JBLF-000036",
+  "email": "kukuhdanu157@gmail.com",
+  "nama": "Kukuh giordano",
+  "asal_kota": "Kediri, Styl_barbershop",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Giordano",
+  "no": {
+    "$numberLong": "859183873083"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e694"
+  },
+  "uniq": "JBLF-000037",
+  "email": "epanods@gmail.com",
+  "nama": "EPAN ODS",
+  "asal_kota": "PROBOLINGGO/ abcdefgepan barberchord",
+  "pilihan": "Workhshop and Battle",
+  "nama_sertif": "EPAN ODS",
+  "no": {
+    "$numberLong": "8970016552"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e695"
+  },
+  "uniq": "JBLF-000038",
+  "email": "ahsanmaulana050@gmail.com",
+  "nama": "Ahsan maulana ",
+  "asal_kota": "JOMBANG ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "AHSAN MAULANA ",
+  "no": "0812 3335 8622 "
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e696"
+  },
+  "uniq": "JBLF-000039",
+  "email": "anggoroangga56@gmail.com",
+  "nama": "Angga anggoro",
+  "asal_kota": "Magetan/phesolek",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Phesolek",
+  "no": {
+    "$numberLong": "85881591016"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e697"
+  },
+  "uniq": "JBLF-000040",
+  "email": "ademasmmi16@gmail.com",
+  "nama": "Ademas Muhammad Maulana Ishaq",
+  "asal_kota": "Pasuruan",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Ademas Muhammad Maulana Ishaq",
+  "no": {
+    "$numberLong": "85784651820"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e698"
+  },
+  "uniq": "JBLF-000041",
+  "email": "kholillail86@gmail.com",
+  "nama": "MUKHAMAD KHOLIL",
+  "asal_kota": "id.kholil haircut Pasuruan ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "MUKHAMAD KHOLIL",
+  "no": {
+    "$numberLong": "85608229924"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e699"
+  },
+  "uniq": "JBLF-000042",
+  "email": "auliofebri03@gmail.com",
+  "nama": "Febri Aulio Isnindra ",
+  "asal_kota": "Tulungagung",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Febri Aulio Isnindra",
+  "no": {
+    "$numberLong": "85736249550"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e69a"
+  },
+  "uniq": "JBLF-000043",
+  "email": "bagas28rp@gmail.com",
+  "nama": "Bagas rudi",
+  "asal_kota": "Tulungagung",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Bagas rudi p",
+  "no": {
+    "$numberLong": "81278146131"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e69b"
+  },
+  "uniq": "JBLF-000044",
+  "email": "ai44342sah@gmail.com",
+  "nama": "Madek khumaedi",
+  "asal_kota": "Probolinggo ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Madek khumaedi ",
+  "no": {
+    "$numberLong": "83892998018"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e69c"
+  },
+  "uniq": "JBLF-000045",
+  "email": "sriwahyuniyuni668@gmail.com",
+  "nama": "Irhamni maulana",
+  "asal_kota": "Probolinggo ",
+  "pilihan": "Workhshop and Battle",
+  "nama_sertif": "Irhamni maulana",
+  "no": {
+    "$numberLong": "85233282378"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e69d"
+  },
+  "uniq": "JBLF-000046",
+  "email": "mirayoocr@gmail.com",
+  "nama": "Tri Engwansa",
+  "asal_kota": "Mojokerto ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "TRI ENGWANSA",
+  "no": {
+    "$numberLong": "85648256649"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e69e"
+  },
+  "uniq": "JBLF-000047",
+  "email": "khusnulkuliyati123@gmail.com",
+  "nama": "DIMAS ADI PUTRA",
+  "asal_kota": "MOJOKERTO",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "DIMAS ADI PUTRA",
+  "no": {
+    "$numberLong": "85843748027"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e69f"
+  },
+  "uniq": "JBLF-000048",
+  "email": "barberve7@gmail.com",
+  "nama": "Heris",
+  "asal_kota": "Probolinggo",
+  "pilihan": "Workhshop and Battle",
+  "nama_sertif": "Heris",
+  "no": {
+    "$numberLong": "82228382018"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6a0"
+  },
+  "uniq": "JBLF-000049",
+  "email": "opshaircut@gmail.com",
+  "nama": "RIYANDI ACHMAD TAUFIQ",
+  "asal_kota": "Jawa Timur Kota Pasuruan / ",
+  "pilihan": "Workhshop and Battle",
+  "nama_sertif": "Op's Haircut",
+  "no": {
+    "$numberLong": "88217059796"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6a1"
+  },
+  "uniq": "JBLF-000050",
+  "email": "agunglaksono020799@gmail.com",
+  "nama": "Mukhammad Agung Laksono ",
+  "asal_kota": "Pasuruan , Jawa Timur ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "DEGOL BARBERSHOP ",
+  "no": {
+    "$numberLong": "81556607510"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6a2"
+  },
+  "uniq": "JBLF-000051",
+  "email": "subaidyalbajuri@gmail.com",
+  "nama": "BAIDY",
+  "asal_kota": "MADURA",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "BAIDY",
+  "no": {
+    "$numberLong": "81515098871"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6a3"
+  },
+  "uniq": "JBLF-000052",
+  "email": "fananiuut9@gmail.com",
+  "nama": "SHOHIBUL FANANI",
+  "asal_kota": "JOMBANG",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "SHOHIBUL FANANI",
+  "no": {
+    "$numberLong": "81515646493"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6a4"
+  },
+  "uniq": "JBLF-000053",
+  "email": "rahimyasah@gmail.com",
+  "nama": "Abdur Rahimyasah",
+  "asal_kota": "JOMBANG",
+  "pilihan": "Workhshop and Battle",
+  "nama_sertif": "YASAH",
+  "no": "+62895-3357-80454"
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6a5"
+  },
+  "uniq": "JBLF-000054",
+  "email": "alilutfi5677@gmail.com",
+  "nama": "Raditya D . A",
+  "asal_kota": "Jombang / mas bertto barbershop",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Raditya D . A",
+  "no": "+62 819-3386-1922"
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6a6"
+  },
+  "uniq": "JBLF-000055",
+  "email": "devianasafara.080@gmail.com",
+  "nama": "Raditya ",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Raditya D. A",
+  "no": {
+    "$numberLong": "85708703060"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6a7"
+  },
+  "uniq": "JBLF-000056",
+  "email": "moh.muhib1512@gmail.com",
+  "nama": "Moh. Haidarul Muhib",
+  "asal_kota": "Kediri",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Achmad Mubin Zakaria",
+  "no": {
+    "$numberLong": "85732676307"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6a8"
+  },
+  "uniq": "JBLF-000057",
+  "email": "azindacici421@gmail.com",
+  "nama": "Mohammad shulhan fauzi",
+  "asal_kota": "Pasuruan",
+  "pilihan": "Workhsop and Battle",
+  "nama_sertif": "Hans barbers 40",
+  "no": {
+    "$numberLong": "85850528809"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6a9"
+  },
+  "uniq": "JBLF-000058",
+  "email": "robinachmad899@gmail.com",
+  "nama": "ROBIN ACHMAD",
+  "asal_kota": "Pasuruan, jawa timur",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "ROBIN ACHMAD",
+  "no": {
+    "$numberLong": "85843435255"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6aa"
+  },
+  "uniq": "JBLF-000059",
+  "email": "ridhoalfriyan7@gmail.com",
+  "nama": "RIDHO ALFRIYAN",
+  "asal_kota": "MOJOKERTO",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "RIDHO ALFRIYAN",
+  "no": {
+    "$numberLong": "89620094487"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6ab"
+  },
+  "uniq": "JBLF-000060",
+  "email": "jsodiqm@gmail.com",
+  "nama": "MUHAMMAD JA'FAR SHODIQ",
+  "asal_kota": "KOTA MOJOKERTO/AISH CO BARBERSHOP STUDIO",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "MUHAMMAD JA'FAR SHODIQ",
+  "no": {
+    "$numberLong": "85730170216"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6ac"
+  },
+  "uniq": "JBLF-000061",
+  "email": "syauqunnada16@gmail.com",
+  "nama": "AHMAD DANIYAL",
+  "asal_kota": "Pasuruan ",
+  "pilihan": "Workhshop and Battle",
+  "nama_sertif": "DJ BARBERSHOP ",
+  "no": {
+    "$numberLong": "82264665606"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6ad"
+  },
+  "uniq": "JBLF-000062",
+  "email": "zudharidhoirobbi@gmail.com",
+  "nama": "ZUDHA RIDHOI ROBBI",
+  "asal_kota": "Kandangan, kediri",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "ZUDHA RIDHOI ROBBI",
+  "no": {
+    "$numberLong": "8978113855"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6ae"
+  },
+  "uniq": "JBLF-000063",
+  "email": "nopuj.kaprawi@gmail.com",
+  "nama": "ILHAM BACHRUDDIN",
+  "asal_kota": "Kandangan",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "ILHAM BACHRUDDIN",
+  "no": {
+    "$numberLong": "85707027421"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6af"
+  },
+  "uniq": "JBLF-000064",
+  "email": "dewiferdy17@gmail.com",
+  "nama": "Yusuf Ferdiyansah",
+  "asal_kota": "Kota batu (MODERN 2 MINI BARBERSHOP)",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Yusuf Ferdiyansah (Modern 2 Mini Barbershop)",
+  "no": {
+    "$numberLong": "82197575035"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6b0"
+  },
+  "uniq": "JBLF-000065",
+  "email": "alraditya001@gmail.com",
+  "nama": "Alif raditya",
+  "asal_kota": "kekancan cukur rambut",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Alif raditya",
+  "no": {
+    "$numberLong": "82143988497"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6b1"
+  },
+  "uniq": "JBLF-000066",
+  "email": "gaganggistya@gmail.com",
+  "nama": "Gaga anggistya cahya",
+  "asal_kota": "Malang, G BARBERSHOP",
+  "pilihan": "Workhshop and Battle",
+  "nama_sertif": "GAGA ANGGISTYA CAHYA ",
+  "no": {
+    "$numberLong": "85895013955"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6b2"
+  },
+  "uniq": "JBLF-000067",
+  "email": "evanalvan23@gmail.com",
+  "nama": "MOHAMMAD ALFAN FAUZI ",
+  "asal_kota": "MALANG",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "VANS BARBERSHOP ",
+  "no": {
+    "$numberLong": "85648083998"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6b3"
+  },
+  "uniq": "JBLF-000068",
+  "email": "kenzokembali12@gmail.com",
+  "nama": "Ahmad rozi wildan",
+  "asal_kota": "Malang, Wild barbershop",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Ahmad rozi wildan",
+  "no": {
+    "$numberLong": "85648710082"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6b4"
+  },
+  "uniq": "JBLF-000069",
+  "email": "zulkarnaenmuhammad751@gmail.com",
+  "nama": "Muhammad Zulkarnaen",
+  "asal_kota": "Malang, Izl Barbershop",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Muhammad Zulkarnaen",
+  "no": {
+    "$numberLong": "85795116948"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6b5"
+  },
+  "uniq": "JBLF-000070",
+  "email": "ahmadsupriadi563@gmail.com",
+  "nama": "Supriadi",
+  "asal_kota": "Probolinggo/java hairstudio",
+  "pilihan": "Workhshop and Battle",
+  "nama_sertif": "Supriadi",
+  "no": {
+    "$numberLong": "81351330670"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6b6"
+  },
+  "uniq": "JBLF-000071",
+  "email": "moch.athoillah3@gmail.com",
+  "nama": "MOCH. ATHO'ILLAH",
+  "asal_kota": "Sidoarjo",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Moch. Atho'illah",
+  "no": {
+    "$numberLong": "85607511108"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6b7"
+  },
+  "uniq": "JBLF-000072",
+  "email": "nurmahesatri@gmail.com",
+  "nama": "Nur Mahesa Triwijaya ",
+  "asal_kota": "KEKANCAN",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Nur Mahesa Triwijaya ",
+  "no": {
+    "$numberLong": "83129647166"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6b8"
+  },
+  "uniq": "JBLF-000073",
+  "email": "ghockleemontenegro@gmail.com",
+  "nama": "Bagas alimsyah",
+  "asal_kota": "Pasuruan kota (BARBERROCK) ",
+  "pilihan": "Workhshop and Battle",
+  "nama_sertif": "Bagas alimsyah",
+  "no": {
+    "$numberLong": "83833108885"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6b9"
+  },
+  "uniq": "JBLF-000074",
+  "email": "ghufronhidayat9@gmail.com",
+  "nama": "M Ghufron Hidayat",
+  "asal_kota": "Probolinggo/ Republik Barbershop",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "M Ghufron Hidayat",
+  "no": {
+    "$numberLong": "81332182629"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6ba"
+  },
+  "uniq": "JBLF-000075",
+  "email": "rifkinade61@gmail.com",
+  "nama": "Rifki",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Rifki",
+  "no": {
+    "$numberLong": "85731535810"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6bb"
+  },
+  "uniq": "JBLF-000076",
+  "email": "maulidinadnani@gmail.com",
+  "nama": "maulidin adnani",
+  "asal_kota": "jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "MAULIDIN ADNANI",
+  "no": {
+    "$numberLong": "81332757711"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6bc"
+  },
+  "uniq": "JBLF-000077",
+  "email": "antoyori979@gmail.com",
+  "nama": "Yohan ari ",
+  "asal_kota": "Batu ( modern 2 mini barbershop)",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Yohan ari ( modern 2 mini barbershop)",
+  "no": {
+    "$numberLong": "85731220176"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6bd"
+  },
+  "uniq": "JBLF-000078",
+  "email": "dwinurchanif013@gmail.com",
+  "nama": "DWI CHANIF",
+  "asal_kota": "PASURUAN",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "MARKAS KLIMIS BARBER SHOOP",
+  "no": {
+    "$numberLong": "81231871902"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6be"
+  },
+  "uniq": "JBLF-000079",
+  "email": "fahmidhyn@gmail.com",
+  "nama": "Fahmidhyn ",
+  "asal_kota": "Probolinggo / Avril Barbershop ",
+  "pilihan": "Workhshop and Battle",
+  "nama_sertif": "Fahmidhyn ",
+  "no": {
+    "$numberLong": "81936575046"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6bf"
+  },
+  "uniq": "JBLF-000080",
+  "email": "erikelek19@gmail.com",
+  "nama": "Jitong",
+  "asal_kota": "Lamongan/jitong barbershop ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Jitong barbershop ",
+  "no": {
+    "$numberLong": "85330589917"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6c0"
+  },
+  "uniq": "JBLF-000081",
+  "email": "bastommyyulirom@gmail.com",
+  "nama": "Tommy Kanayomi",
+  "asal_kota": "Lamongan - Tommy Barbershop",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Tommy Kanayomi",
+  "no": {
+    "$numberLong": "81337333354"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6c1"
+  },
+  "uniq": "JBLF-000082",
+  "email": "uvitboy@gmail.com",
+  "nama": "UVIT BOY",
+  "asal_kota": "JOMBANG",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "UVIT BOY ",
+  "no": {
+    "$numberLong": "83832838973"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6c2"
+  },
+  "uniq": "JBLF-000083",
+  "email": "zaldyarnoval590@gmail.com",
+  "nama": "ZALDY ARNOVAL D.R",
+  "asal_kota": "JOMBANG, RINIO BARBERSHOP ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "ZALDY ARNOVAL D.R",
+  "no": {
+    "$numberLong": "87804445648"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6c3"
+  },
+  "uniq": "JBLF-000084",
+  "email": "najibyudho@gmail.com",
+  "nama": "Najib",
+  "asal_kota": "Jombang ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Najib Yudho Dewanto ",
+  "no": {
+    "$numberLong": "83824812925"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6c4"
+  },
+  "uniq": "JBLF-000085",
+  "email": "rikokori56@gmail.com",
+  "nama": "REZA ADITIYA",
+  "asal_kota": "Lamongan ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "REZA ADITYA",
+  "no": {
+    "$numberLong": "85600208972"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6c5"
+  },
+  "uniq": "JBLF-000086",
+  "email": "cukupallahsaja@gmail.com",
+  "nama": "ichsan giovani",
+  "asal_kota": "wonogiri",
+  "pilihan": "Workhshop and Battle",
+  "nama_sertif": "ichsan giovani",
+  "no": {
+    "$numberLong": "85741420663"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6c6"
+  },
+  "uniq": "JBLF-000087",
+  "email": "ridlobirkham666@gmail.com",
+  "nama": "Ridlo Birkham",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Ridlo Birkham",
+  "no": {
+    "$numberLong": "85755611645"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6c7"
+  },
+  "uniq": "JBLF-000088",
+  "email": "irulbachtiar03@gmail.com",
+  "nama": "KHAERUL BACHTIAR ",
+  "asal_kota": "Wonogiri /gasaga barbershop ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "KHAERUL BACHTIAR ",
+  "no": {
+    "$numberLong": "83809696800"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6c8"
+  },
+  "uniq": "JBLF-000089",
+  "email": "aldomarcelino4@gmail.com",
+  "nama": "ALDO MARCELINO",
+  "asal_kota": "NGORO, JOMBANG",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "ALDO BARBER",
+  "no": {
+    "$numberLong": "85847620918"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6c9"
+  },
+  "uniq": "JBLF-000090",
+  "email": "mm0378422@gmail.com",
+  "nama": "Muhammad Muchsin ",
+  "asal_kota": "Malang/BURDAH",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "BURDAH ",
+  "no": {
+    "$numberLong": "89695966064"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6ca"
+  },
+  "uniq": "JBLF-000091",
+  "email": "lodehjombang@gmail.com",
+  "nama": "Fahad Abi maulana",
+  "asal_kota": "Bandung Diwek jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Fahad Abi maulana",
+  "no": {
+    "$numberLong": "83890855032"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6cb"
+  },
+  "uniq": "JBLF-000092",
+  "email": "fakhrurrizal059@gmail.com",
+  "nama": "M.FAKHRUR RIJAL",
+  "asal_kota": "BARBER HOUSE",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "M.Fakhrur Rijal",
+  "no": {
+    "$numberLong": "85852735874"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6cc"
+  },
+  "uniq": "JBLF-000093",
+  "email": "arriswag58@gmail.com",
+  "nama": "MUKHAMAT SARIFUDIN",
+  "asal_kota": "BARBER HOUSE ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "MUKHAMAT SARIFUDIN",
+  "no": {
+    "$numberLong": "85707033004"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6cd"
+  },
+  "uniq": "JBLF-000094",
+  "email": "slametwidyanto333@gmail.com",
+  "nama": "Slamet widyanto",
+  "asal_kota": "BARBERHOUSE",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Slamet widyanto",
+  "no": {
+    "$numberLong": "83897839798"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6ce"
+  },
+  "uniq": "JBLF-000095",
+  "email": "adimasputra099@gmail.com",
+  "nama": "ADIMAS PUTRA PRAMANA ",
+  "asal_kota": "Pasuruan ",
+  "pilihan": "Workhshop and Battle",
+  "nama_sertif": "ADIMAS PUTRA PRAMANA",
+  "no": {
+    "$numberLong": "81334272173"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6cf"
+  },
+  "uniq": "JBLF-000096",
+  "email": "novitasari84223@gmail.com",
+  "nama": "ramadani",
+  "asal_kota": "pasuruan",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "ramadani",
+  "no": {
+    "$numberLong": "85856599059"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6d0"
+  },
+  "uniq": "JBLF-000097",
+  "email": "ciz.r3v@gmail.com",
+  "nama": "Mukhlis Khoirony",
+  "asal_kota": "Jombang / Masterpiece+",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Mukhlis Khoirony",
+  "no": {
+    "$numberLong": "8121117212"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6d1"
+  },
+  "uniq": "JBLF-000098",
+  "email": "doanardanu@gmail.com",
+  "nama": "Doan Ardanu",
+  "asal_kota": "JOMBANG/MASTERPIECE+",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "DOAN ARDANU",
+  "no": {
+    "$numberLong": "85731806695"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6d2"
+  },
+  "uniq": "JBLF-000099",
+  "email": "badrussholikhin508@gmail.com",
+  "nama": "BADRUS SHOLIKHIN ",
+  "asal_kota": "KEDIRI ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "KLINIK_21BARBERSHOP",
+  "no": {
+    "$numberLong": "85646225591"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6d3"
+  },
+  "uniq": "JBLF-000100",
+  "email": "astarhairstudio353@gmail.com",
+  "nama": "Aditia stiawan",
+  "asal_kota": "Lamongan",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "astarhairstudio.co",
+  "no": {
+    "$numberLong": "85648309404"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6d4"
+  },
+  "uniq": "JBLF-000101",
+  "email": "khunnam46@gmail.com",
+  "nama": "Ghoknam",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Khoirul Anam (Ghoknam)",
+  "no": {
+    "$numberLong": "87735565091"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6d5"
+  },
+  "uniq": "JBLF-000102",
+  "email": "habibhidayat189@gmail.com",
+  "nama": "Habib hidayat",
+  "asal_kota": "Kediri",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Habib hidayat",
+  "no": {
+    "$numberLong": "895801840030"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6d6"
+  },
+  "uniq": "JBLF-000103",
+  "email": "mhmmdaliwafi@gmail.com",
+  "nama": "Muhammad Ali wafi",
+  "asal_kota": "Bondowoso/HairGuns.studio",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "WAFI SALOSA",
+  "no": {
+    "$numberLong": "81333174802"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6d7"
+  },
+  "uniq": "JBLF-000104",
+  "email": "dwyarmawanthp@gmail.com",
+  "nama": "DWI ARMAWAN",
+  "asal_kota": "JOMBANG/POETRA BARBERSHOP",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "DWI ARMAWAN",
+  "no": {
+    "$numberLong": "82198143251"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6d8"
+  },
+  "uniq": "JBLF-000105",
+  "email": "irulerwanda789@gmail.com",
+  "nama": "M Nurul hidayatullah (irul erwanda)",
+  "asal_kota": "Madura (Jombang) (Azzam barbershop)",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "M Nurul hidayatullah ",
+  "no": {
+    "$numberLong": "85736452648"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6d9"
+  },
+  "uniq": "JBLF-000106",
+  "email": "wawanarsenio37@gmail.com",
+  "nama": "Muhammad irwan",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Muhammad irwan",
+  "no": {
+    "$numberLong": "85755023631"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6da"
+  },
+  "uniq": "JBLF-000107",
+  "email": "verivanno87@gmail.com",
+  "nama": "Vin Ps (Ve)",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Vin Ps (Ve)",
+  "no": {
+    "$numberLong": "89667194228"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6db"
+  },
+  "uniq": "JBLF-000108",
+  "email": "ervanyuliaanto@gmail.com",
+  "nama": "M IVAN YULIANTO",
+  "asal_kota": "Probolinggo",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "M IVAN YULIANTO",
+  "no": {
+    "$numberLong": "83869695610"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6dc"
+  },
+  "uniq": "JBLF-000109",
+  "email": "isamaulana336@gmail.com",
+  "nama": "Isa maulana",
+  "asal_kota": "Pasuruan/Pandawa BarberHome ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Isa Maulana ",
+  "no": {
+    "$numberLong": "85893027058"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6dd"
+  },
+  "uniq": "JBLF-000110",
+  "email": "setiawandonny37@gmail.com",
+  "nama": "Susan ",
+  "asal_kota": "SS one barbershop",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "SS ONE BERBERSHOP",
+  "no": {
+    "$numberLong": "82337092186"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6de"
+  },
+  "uniq": "JBLF-000111",
+  "email": "wisshaka97@gmail.com",
+  "nama": "Muhammad abdul aziz hudaya ",
+  "asal_kota": "Sukoharjo ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Muhammad Abdul Aziz hudaya ",
+  "no": {
+    "$numberLong": "85876055631"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6df"
+  },
+  "uniq": "JBLF-000112",
+  "email": "prayudap10@gmail.com",
+  "nama": "Prayudap",
+  "asal_kota": "Solo",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Prayudap",
+  "no": {
+    "$numberLong": "882008315757"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6e0"
+  },
+  "uniq": "JBLF-000113",
+  "email": "rocesbarbermini@gmail.com",
+  "nama": "Saproll",
+  "asal_kota": "Malang /roces barbershop ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Saproll roces barbershop ",
+  "no": {
+    "$numberLong": "895800351030"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6e1"
+  },
+  "uniq": "JBLF-000114",
+  "email": "fanyafahma30@gmail.com",
+  "nama": "Ahmad aziz f. ",
+  "asal_kota": "Blora ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Ahmad aziz firdaus ",
+  "no": {
+    "$numberLong": "82334171865"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6e2"
+  },
+  "uniq": "JBLF-000115",
+  "email": "ozanee354@gmail.com",
+  "nama": "FAUZAN QOIRI ",
+  "asal_kota": "Nganjuk ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "FAUZAN QOIRI ",
+  "no": {
+    "$numberLong": "82334654820"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6e3"
+  },
+  "uniq": "JBLF-000116",
+  "email": "brianharis12@gmail.com",
+  "nama": "BRIAN HARIS",
+  "asal_kota": "JOMBANG",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "BRIAN HARIS",
+  "no": {
+    "$numberLong": "83141797977"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6e4"
+  },
+  "uniq": "JBLF-000117",
+  "email": "suharyonofighter04@gmail.com",
+  "nama": "SUHARYONO",
+  "asal_kota": "PAMEKASAN MADURA JATIM/BARBERSHOP TOPI JERAMI",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "SUHARYONO",
+  "no": {
+    "$numberLong": "85231183218"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6e5"
+  },
+  "uniq": "JBLF-000118",
+  "email": "intanlnanda838@gmail.com",
+  "nama": "FAUZAN QOIRI",
+  "asal_kota": "Nganjuk ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "FAUZAN QOIRI ",
+  "no": {
+    "$numberLong": "82334654820"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6e6"
+  },
+  "uniq": "JBLF-000119",
+  "email": "aarifanda@gmail.com",
+  "nama": "ARI FANDA",
+  "asal_kota": "MADIUN",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "ARI FANDA MAULANA",
+  "no": {
+    "$numberLong": "85936666375"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6e7"
+  },
+  "uniq": "JBLF-000120",
+  "email": "rjj045@gmail.com",
+  "nama": "Reysa Hafidz Pigon",
+  "asal_kota": "Lamongan",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Reysa Hafidz Pigon",
+  "no": {
+    "$numberLong": "85857209295"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6e8"
+  },
+  "uniq": "JBLF-000121",
+  "email": "abdeeichome@gmail.com",
+  "nama": "Moh abdullah ishom",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Moh abdullah ishom",
+  "no": {
+    "$numberLong": "81515639484"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6e9"
+  },
+  "uniq": "JBLF-000122",
+  "email": "yunasrizqi19@gmail.com",
+  "nama": "Yunas Rizqi Alfianto ",
+  "asal_kota": "Boyolali",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Yunas R . A",
+  "no": {
+    "$numberLong": "87725703079"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6ea"
+  },
+  "uniq": "JBLF-000123",
+  "email": "zamzamalbin@gmail.com",
+  "nama": "AHMAD ALBINAZAR AZZAMZAMI",
+  "asal_kota": "Tulungagung",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Ahmad albinazar azzamzami",
+  "no": {
+    "$numberLong": "85736275039"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6eb"
+  },
+  "uniq": "JBLF-000124",
+  "email": "roysetyawan169@gmail.com",
+  "nama": "Roy Setyawan",
+  "asal_kota": "Malang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Roy Setyawan",
+  "no": {
+    "$numberLong": "81252604886"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6ec"
+  },
+  "uniq": "JBLF-000125",
+  "email": "dioputra22012004@gmail.com",
+  "nama": "Dio putra",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "DIO PUTRA",
+  "no": {
+    "$numberLong": "85706431536"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6ed"
+  },
+  "uniq": "JBLF-000126",
+  "email": "abidinabi541@gmail.com",
+  "nama": "ABIDIN",
+  "asal_kota": "Gending, Probolinggo",
+  "pilihan": "Workhshop and Battle",
+  "nama_sertif": "ABIDIN",
+  "no": {
+    "$numberLong": "81230020434"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6ee"
+  },
+  "uniq": "JBLF-000127",
+  "email": "muttaqinamin94@gmail.com",
+  "nama": "Muttaqin Amin ",
+  "asal_kota": "TUBAN",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Muttaqin amin",
+  "no": {
+    "$numberLong": "85899767301"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6ef"
+  },
+  "uniq": "JBLF-000128",
+  "email": "rizkiyanto115@gmail.com",
+  "nama": "Rizkiyanto",
+  "asal_kota": "Probolinggo/ECORDISBarbershop ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Rizki",
+  "no": {
+    "$numberLong": "83865650385"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6f0"
+  },
+  "uniq": "JBLF-000129",
+  "email": "fahrizalilham30@gmail.com",
+  "nama": "Farizal ilham",
+  "asal_kota": "Kota malang GANTENG HAIRCUT",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Farizal ilham",
+  "no": {
+    "$numberLong": "87854583291"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6f1"
+  },
+  "uniq": "JBLF-000130",
+  "email": "ghuinkcaen@gmail.com",
+  "nama": "Usman",
+  "asal_kota": "Sampang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Usman",
+  "no": {
+    "$numberLong": "82337976246"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6f2"
+  },
+  "uniq": "JBLF-000131",
+  "email": "aliwahaby7@gmail.com",
+  "nama": "vicky a.w",
+  "asal_kota": "twove barber",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "vicky a.w",
+  "no": {
+    "$numberLong": "81359422097"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6f3"
+  },
+  "uniq": "JBLF-000132",
+  "email": "nandaakmal18@gmail.com",
+  "nama": "nanda akmal",
+  "asal_kota": "fireup hairstudio ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Nanda Akmal",
+  "no": {
+    "$numberLong": "85731518042"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6f4"
+  },
+  "uniq": "JBLF-000133",
+  "email": "agungfatah227@gmail.com",
+  "nama": "Agung fatah w",
+  "asal_kota": "R.A.F BARBERSHOP",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "AGUNG FATAH W",
+  "no": {
+    "$numberLong": "82123510354"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6f5"
+  },
+  "uniq": "JBLF-000134",
+  "email": "yhariprasetya@gmail.com",
+  "nama": "YOGA PRASETIA",
+  "asal_kota": "NGANJUK/FIREUP HAIRSTUDIO",
+  "pilihan": "Workhshop and Battle",
+  "nama_sertif": "YOGA PRASETIA",
+  "no": {
+    "$numberLong": "87749873487"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6f6"
+  },
+  "uniq": "JBLF-000135",
+  "email": "irsadsaifulloh2002@gmail.com",
+  "nama": "IRSAD SAIFULLOH",
+  "asal_kota": "KEDIRI",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "IRSAD SAIFULLOH",
+  "no": {
+    "$numberLong": "81230467015"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6f7"
+  },
+  "uniq": "JBLF-000136",
+  "email": "ciwetfadhillah@gmail.com",
+  "nama": "ALFIN FADHILLAH",
+  "asal_kota": "PURWOKERTO",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "ALFIN FADHILLAH",
+  "no": {
+    "$numberLong": "81282353475"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6f8"
+  },
+  "uniq": "JBLF-000137",
+  "email": "ma7755683@gmail.com",
+  "nama": "M.ARIF.R.H",
+  "asal_kota": "Pasuruan ",
+  "pilihan": "Workhshop and Battle",
+  "nama_sertif": "M.ARIF.R.H",
+  "no": {
+    "$numberLong": "81908934918"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6f9"
+  },
+  "uniq": "JBLF-000138",
+  "email": "rebeccahoshi@gmail.com",
+  "nama": "RENALDI BOY AHYAR",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "RENALDI BOY AHYAR",
+  "no": {
+    "$numberLong": "87855570146"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6fa"
+  },
+  "uniq": "JBLF-000139",
+  "email": "titanzaldi.muhammad@gmail.com",
+  "nama": "TITAN",
+  "asal_kota": "JOMBANG",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "TITAN ZALDI",
+  "no": {
+    "$numberLong": "882010391212"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6fb"
+  },
+  "uniq": "JBLF-000140",
+  "email": "imamzarkasih598@gmail.com",
+  "nama": "imam zarkasih",
+  "asal_kota": "Kab.Blitar TG barber",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Imam zarkasih",
+  "no": {
+    "$numberLong": "82258761997"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6fc"
+  },
+  "uniq": "JBLF-000141",
+  "email": "d33940155@gmail.com",
+  "nama": "Difa huda ma'ruf",
+  "asal_kota": "Gasaga barbershop, Jatipurno, wonogiri, jawa tengah",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "DIFA HUDA M",
+  "no": {
+    "$numberLong": "83134740198"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6fd"
+  },
+  "uniq": "JBLF-000142",
+  "email": "ainulyakin1828@gmail.com",
+  "nama": "M Ainul Yaqin",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "M Ainul Yaqin",
+  "no": {
+    "$numberLong": "85645342275"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6fe"
+  },
+  "uniq": "JBLF-000143",
+  "email": "ameeqq23@gmail.com",
+  "nama": "Amirul rizki",
+  "asal_kota": "MALANG/GANTENG HAIRCUT",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Amirul Rizk",
+  "no": {
+    "$numberLong": "88989088123"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e6ff"
+  },
+  "uniq": "JBLF-000144",
+  "email": "thomasandreas1710@gmail.com",
+  "nama": "THOMAS ANDREAS",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "THOMAS ANDREAS",
+  "no": {
+    "$numberLong": "81331709370"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e700"
+  },
+  "uniq": "JBLF-000145",
+  "email": "aditd1984@gmail.com",
+  "nama": "Aditya dimas prabowo",
+  "asal_kota": "Ratops barbershop",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Irfan nur hakim",
+  "no": {
+    "$numberLong": "895387254080"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e701"
+  },
+  "uniq": "JBLF-000146",
+  "email": "khusnulwasito298@gmail.com",
+  "nama": "Khusnul Wasito",
+  "asal_kota": "Lamongan",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Khusnul Wasito",
+  "no": {
+    "$numberLong": "895418306645"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e702"
+  },
+  "uniq": "JBLF-000147",
+  "email": "alekdomo210120@gmail.com",
+  "nama": "Haria Alek Domo",
+  "asal_kota": "Probolinggo",
+  "pilihan": "Workhshop and Battle",
+  "nama_sertif": "Haria Alek Domo",
+  "no": {
+    "$numberLong": "85655242005"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e703"
+  },
+  "uniq": "JBLF-000148",
+  "email": "centungbarker@gmail.com",
+  "nama": "VINALDI",
+  "asal_kota": "Malang/CLASSY BARBERSHOP ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "CLASSY BARBERSHOP ",
+  "no": {
+    "$numberLong": "82141024818"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e704"
+  },
+  "uniq": "JBLF-000149",
+  "email": "willyandrean0401@gmail.com",
+  "nama": "WILLY ANDREAN",
+  "asal_kota": "MALANG",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "WILLY ANDREAN",
+  "no": {
+    "$numberLong": "89505684594"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e705"
+  },
+  "uniq": "JBLF-000150",
+  "email": "elloraffa36@gmail.com",
+  "nama": "Prasetyo",
+  "asal_kota": "Malang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Habibi Barbershop",
+  "no": {
+    "$numberLong": "85939286601"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e706"
+  },
+  "uniq": "JBLF-000151",
+  "email": "jokotriyono910@gmail.com",
+  "nama": "Joko triyono(Bang Joe)",
+  "asal_kota": "Situbondo TCSC(The Cuts Situbondo Community)",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Joko triyono (Bang Joe)",
+  "no": {
+    "$numberLong": "85336163999"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e707"
+  },
+  "uniq": "JBLF-000152",
+  "email": "siswandibwi@gmail.com",
+  "nama": "SISWANDI",
+  "asal_kota": "BANYUWANGI /FAJARBARBERSHOP",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "SISWANDI ",
+  "no": {
+    "$numberLong": "85330704848"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e708"
+  },
+  "uniq": "JBLF-000153",
+  "email": "nanankkutjianto@gmail.com",
+  "nama": "Nanank. ",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Nanang K.P",
+  "no": {
+    "$numberLong": "87758738292"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e709"
+  },
+  "uniq": "JBLF-000154",
+  "email": "galangnurqolbi96@gmail.com",
+  "nama": "Galang ",
+  "asal_kota": "Malang / Ganteng Haircut",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Mochamad Galang Nur Qolbi",
+  "no": {
+    "$numberLong": "89697662752"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e70a"
+  },
+  "uniq": "JBLF-000155",
+  "email": "didyn.j011@gmail.com",
+  "nama": "didyn ",
+  "asal_kota": "jombang/azzam barbershop",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "didyn ",
+  "no": {
+    "$numberLong": "85816689979"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e70b"
+  },
+  "uniq": "JBLF-000156",
+  "email": "akhmadyusufaja@gmail.com",
+  "nama": "Ahmad yusuf",
+  "asal_kota": "Tulungagung ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Ahmad Yusuf",
+  "no": {
+    "$numberLong": "85732511354"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e70c"
+  },
+  "uniq": "JBLF-000157",
+  "email": "varobbya@gmail.com",
+  "nama": "Rob Mojo (Undangan) ",
+  "asal_kota": "Surabaya",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Rob Mojo",
+  "no": {
+    "$numberLong": "85161505199"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e70d"
+  },
+  "uniq": "JBLF-000158",
+  "email": "mochamadfaris60@gmail.com",
+  "nama": "Mochamad Faris Abdul Rozak",
+  "asal_kota": "Boyolali ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "M Faris Abdul Rozak",
+  "no": {
+    "$numberLong": "85944028773"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e70e"
+  },
+  "uniq": "JBLF-000159",
+  "email": "riskirohman159@gmail.com",
+  "nama": "Muhammad Rizki nurrrohman",
+  "asal_kota": "Solo",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "RIZKI ROHMAN",
+  "no": {
+    "$numberLong": "82289358260"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e70f"
+  },
+  "uniq": "JBLF-000160",
+  "email": "utamadimassatria@gmail.com",
+  "nama": "Dimas satria putra utama",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhshop and Battle",
+  "nama_sertif": "Poetra barbershop",
+  "no": {
+    "$numberLong": "8566012667"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e710"
+  },
+  "uniq": "JBLF-000161",
+  "email": "adinsukma87@gmail.com",
+  "nama": "Adin Sukma",
+  "asal_kota": "Tulungagung ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Adin Sukma",
+  "no": {
+    "$numberLong": "81935361224"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e711"
+  },
+  "uniq": "JBLF-000162",
+  "email": "redyarkad@gmail.com",
+  "nama": "Redy Bachtiar ",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Redy Bachtiar ",
+  "no": {
+    "$numberLong": "83134473072"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e712"
+  },
+  "uniq": "JBLF-000163",
+  "email": "f37772592@gmail.com",
+  "nama": "Muhammad nur fauzi",
+  "asal_kota": "Klaten Jawa tengah",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Maels barbershop ",
+  "no": {
+    "$numberLong": "81998019290"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e713"
+  },
+  "uniq": "JBLF-000164",
+  "email": "rianudinnanang@gmail.com",
+  "nama": "Nanang rianudin",
+  "asal_kota": "Trenggalek",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Nanang rianudin",
+  "no": {
+    "$numberLong": "85843977659"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e714"
+  },
+  "uniq": "JBLF-000165",
+  "email": "lebeone421231@gmail.com",
+  "nama": "MUHAMMAD HARDIANTO",
+  "asal_kota": "JOMBANG  / MASTERPIECE BARBER SHOP",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "MUHAMMAD HARDIANTO",
+  "no": {
+    "$numberLong": "85808433013"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e715"
+  },
+  "uniq": "JBLF-000166",
+  "email": "aal.mancung@gmail.com",
+  "nama": "Aalboediman",
+  "asal_kota": "Probolinggo",
+  "pilihan": "Workhshop and Battle",
+  "nama_sertif": "Aalboediman",
+  "no": {
+    "$numberLong": "82217522019"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e716"
+  },
+  "uniq": "JBLF-000167",
+  "email": "zakaambon3@gmail.com",
+  "nama": "Jak",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Muhammad Zakaria",
+  "no": {
+    "$numberLong": "85838685822"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e717"
+  },
+  "uniq": "JBLF-000168",
+  "email": "hafizdhidayatulloh691@gmail.com",
+  "nama": "Hildan M hafizd H",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Hildan M hafizd H",
+  "no": {
+    "$numberLong": "81358926303"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e718"
+  },
+  "uniq": "JBLF-000169",
+  "email": "amdralaila@gmail.com",
+  "nama": "Amdra Sinatra",
+  "asal_kota": "Jombang / Youth Hair Studio",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Amdra Sinatra",
+  "no": "0822 31699656"
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e719"
+  },
+  "uniq": "JBLF-000170",
+  "email": "irvanindra12345@gmail.com",
+  "nama": "Irvan indra p",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Irvan indra p",
+  "no": {
+    "$numberLong": "82231043470"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e71a"
+  },
+  "uniq": "JBLF-000171",
+  "email": "trisaid.vitriady@gmail.com",
+  "nama": "MUHAMMAD SA'IDUN",
+  "asal_kota": "JOMBANG/SERGEANT BARBERSHOP",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "MUHAMMAD SA'IDUN",
+  "no": "+62 856-4823-9632"
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e71b"
+  },
+  "uniq": "JBLF-000172",
+  "email": "ercbarberbarbershopandcoffee@gmail.com",
+  "nama": "Resnu harjunot",
+  "asal_kota": "Mexico",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "erc barbershop",
+  "no": {
+    "$numberLong": "83875770963"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e71c"
+  },
+  "uniq": "JBLF-000173",
+  "email": "rahaircut17@gmail.com",
+  "nama": "Richo",
+  "asal_kota": "RA haircut",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Richo",
+  "no": {
+    "$numberLong": "85852030823"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e71d"
+  },
+  "uniq": "JBLF-000174",
+  "email": "rizkiyajah99@gmail.com",
+  "nama": "RIZQI J A",
+  "asal_kota": "MOJOAGUNG",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "RIZQI J A",
+  "no": {
+    "$numberLong": "85852030823"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e71e"
+  },
+  "uniq": "JBLF-000175",
+  "email": "hardianpradana9@gmail.com",
+  "nama": "Hardian Eki",
+  "asal_kota": "Mojoagung,Jombang ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Hardian Eki ",
+  "no": {
+    "$numberLong": "87882393663"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e71f"
+  },
+  "uniq": "JBLF-000176",
+  "email": "tomiyt331@gmail.com",
+  "nama": "Tomiy",
+  "asal_kota": "Jangkis",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Tomiy",
+  "no": {
+    "$numberLong": "85730757439"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e720"
+  },
+  "uniq": "JBLF-000177",
+  "email": "vickyuncex123@gmail.com",
+  "nama": "VICKY ",
+  "asal_kota": "MOJOKERTO ",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "VICKY",
+  "no": {
+    "$numberLong": "85852164812"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e721"
+  },
+  "uniq": "JBLF-000178",
+  "email": "juanpiter224@gmail.com",
+  "nama": "JUAN P. L",
+  "asal_kota": "TRENGGALEK/SNAZZY BARBERSHOP",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "WORKSHOP BARBER LIFE FAMILY",
+  "no": {
+    "$numberLong": "81805791160"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e722"
+  },
+  "uniq": "JBLF-000179",
+  "email": "yudistira4083@gmail.com",
+  "nama": "Yudistira ardhi ferdyansah",
+  "asal_kota": "kediri",
+  "pilihan": "Workhshop and Battle",
+  "nama_sertif": "YUDITIRA A.F",
+  "no": {
+    "$numberLong": "85755770853"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e723"
+  },
+  "uniq": "JBLF-000180",
+  "email": "husindabelmen@gmail.com",
+  "nama": "Muhammad Husin",
+  "asal_kota": "Pasuruan",
+  "pilihan": "Workhshop and Battle",
+  "nama_sertif": "Muhammad Husin Style Barbershop18",
+  "no": {
+    "$numberLong": "85748229375"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e724"
+  },
+  "uniq": "JBLF-000181",
+  "email": "boyzacky46@gmail.com",
+  "nama": "RIDWAN",
+  "asal_kota": "PASURUAN SAM BARBAR",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "RIDWAN",
+  "no": {
+    "$numberLong": "81234018908"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e725"
+  },
+  "uniq": "JBLF-000182",
+  "email": "novgianr@gmail.com",
+  "nama": "Ryan Novgian Prasetyo",
+  "asal_kota": "Tulungagung",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": " Hairgrooms For Him",
+  "no": {
+    "$numberLong": "85608111050"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e726"
+  },
+  "uniq": "JBLF-000183",
+  "email": "bbar2273@gmail.com",
+  "nama": "Abdul Halim",
+  "asal_kota": "Jombang",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Mubarok-2",
+  "no": {
+    "$numberLong": "81389277172"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e727"
+  },
+  "uniq": "JBLF-000184",
+  "email": "eghaghofur@gmail.com",
+  "nama": "Egha geo four indrawan",
+  "asal_kota": "Barber&Salon wonosalam",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Egha geo four indrawan",
+  "no": {
+    "$numberLong": "88235513620"
+  }
+},
+{
+  "_id": {
+    "$oid": "66cc4b3efa99cc1fe959e728"
+  },
+  "uniq": "JBLF-000185",
+  "email": "ymusning@gmail.com",
+  "nama": "Wahyu eka s",
+  "asal_kota": "Barber&salon wonosalam",
+  "pilihan": "Workhsop Only",
+  "nama_sertif": "Wahyu eka s",
+  "no": {
+    "$numberLong": "8113549449"
+  }
+}]
